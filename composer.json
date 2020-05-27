@@ -10,11 +10,11 @@
     }
   ],
   "require": {
-    "php": "^7.3",
+    "php": "^7.4",
     "ext-intl": "*",
     "ext-pdo": "*",
     "ext-curl": "*",
-    "laravel/framework": "^6.0",
+    "laravel/framework": "^7.0",
     "michaeldrennen/remote-file": "^2.0",
     "michaeldrennen/local-file": "^2.0",
     "curl/curl": "^2.2",
